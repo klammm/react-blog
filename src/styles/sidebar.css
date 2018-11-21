@@ -1,0 +1,8 @@
+.Sidebar {
+  display: inline-block;
+  background-color: red;
+  width: 30%;
+  float: left;
+  height: 100vh;
+  text-align: center;
+}
